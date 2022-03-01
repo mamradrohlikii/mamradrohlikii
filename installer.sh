@@ -13,3 +13,11 @@ git clone https://github.com/hk4crprasad/Evil-sms
 git clone
 
 echo DONE BASIC SETUP
+
+cd
+
+cd
+
+cd <mamradrohliki>
+
+rm -rf <mamradrohliki>.git 
