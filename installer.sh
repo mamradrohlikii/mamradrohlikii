@@ -14,10 +14,7 @@ git clone
 
 echo DONE BASIC SETUP
 
+cd mamradrohlikii
+rm installer.sh
 cd
-
-cd
-
-cd <mamradrohliki>
-
-rm -rf <mamradrohliki>.git 
+rm -d mamradrohlikii
